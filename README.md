@@ -1,2 +1,2 @@
 # VR_test
-dskæfl
+to jest plik testowy
